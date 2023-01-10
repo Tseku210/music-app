@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## https://music-app-v1-seven.vercel.app
 
-Login:
-username: user@test.com
+Login:  
+
+username: user@test.com  
+
 password: password
