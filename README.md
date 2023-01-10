@@ -12,4 +12,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## https://music-app-v1-seven.vercel.app/signin
+## https://music-app-v1-seven.vercel.app
+
+Login:
+username: user@test.com
+password: password
